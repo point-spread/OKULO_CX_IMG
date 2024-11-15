@@ -1,0 +1,7 @@
+# file 
+*.log
+
+# filefolder
+build
+.history/
+opt
